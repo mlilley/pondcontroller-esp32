@@ -1,8 +1,8 @@
 #ifndef __COMMON_H__
 #define __COMMON_H__
 
-#define PIN_SENSORBUS 4
-#define PIN_BUTTON 5
+#define PIN_SENSORBUS 5
+#define PIN_BUTTON 4
 #define PIN_RELAY 6
 #define SENSOR_RESOLUTION 12
 
